@@ -1,5 +1,5 @@
-<h1 align="center">Hi Everyone, I'm Vittorio Loris Simonetti</h1>
-<h3 align="center">A passionate and curious Electronic Engineer from Italy.</h3>
+<h1 align="left">Hi Everyone, I'm Vittorio</h1>
+<h3 align="left">A passionate and curious Electronic Engineer from Italy.</h3>
 
 
 - 🔭 I’m currently working on **SAP S/4 Hana as Application Developer**
