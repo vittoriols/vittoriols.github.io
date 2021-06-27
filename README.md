@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hi 👋, I'm Vittorio Loris Simonetti</h1>
+<h3 align="center">A passionate and curious Electronic Engineer from Italy.</h3>
 
-You can use the [editor on GitHub](https://github.com/vittoriols/vittoriols.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vittoriols&label=Profile%20views&color=0e75b6&style=flat" alt="vittoriols" /> </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🔭 I’m currently working on **SAP S/4 Hana as Application Developer**
 
-### Markdown
+- 🌱 I’m currently learning **Flutter for mobile application development**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 👨‍💻 All of my projects are available here on Github
 
-```markdown
-Syntax highlighted code block
+- 📫 How to reach me **v.loris.simonetti@gmail.com**
 
-# Header 1
-## Header 2
-### Header 3
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vittorio loris simonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittorio loris simonetti" height="30" width="40" /></a>
+</p>
 
-- Bulleted
-- List
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-1. Numbered
-2. List
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoriols&show_icons=true&locale=en&layout=compact" alt="vittoriols" /></p>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vittoriols/vittoriols.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
