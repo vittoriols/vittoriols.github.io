@@ -15,7 +15,6 @@
   
 | N° | Project | Technology | 
 | ------ | ------ | ------ |
-  |  |  |  |
 |1| [Predict Water Pipe Failures by City (Machine Learning Regression)](https://github.com/vittoriols/Machine-Learning-Model-to-Predict-Water-Pipe-Failures-by-City.git) | Machine Learning (Regression)
 |2| .. | Flutter / Dart 
 
