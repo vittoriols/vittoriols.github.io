@@ -1,5 +1,5 @@
 <h1 align="left">Hi Everyone, I'm Vittorio</h1>
-<h3 align="left">A passionate and curious Electronic Engineer from Italy.</h3>
+<h4 align="left">A passionate and curious Electronic Engineer from Italy.</h4>
 
 
 - 🔭 I’m currently working on **SAP S/4 Hana as Application Developer**
@@ -9,6 +9,17 @@
 - 👨‍💻 All of my projects are available here on Github
 
 - 📫 How to reach me **v.loris.simonetti@gmail.com**
+
+<h3 align="left">Projects: </h3>
+<p align="left">
+  
+| N° | Project | Technology | 
+| ------ | ------ | ------ |
+|1| [Predict Water Pipe Failures by City (Machine Learning Regression)](https://github.com/vittoriols/Machine-Learning-Model-to-Predict-Water-Pipe-Failures-by-City.git) | Machine Learning (Regression)
+|2| .. | Flutter / Dart 
+
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
