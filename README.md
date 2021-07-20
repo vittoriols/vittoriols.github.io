@@ -13,10 +13,10 @@
 <h3 align="left">Projects: </h3>
 <p align="left">
   
-| N° | Project | Technology | Programming Language |
-| ------ | ------ | ------ |
-|1| [Predict Water Pipe Failures by City](https://github.com/vittoriols/Machine-Learning-Model-to-Predict-Water-Pipe-Failures-by-City.git) | Machine Learning (Regression) | Python |
-|2| .. | Mobile App Development | Flutter / Dart |
+ 	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
 
  
 
