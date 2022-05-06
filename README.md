@@ -10,6 +10,12 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 
 - 👨‍💻 All of my projects are available here on Github
 
+<h3 align="left">Professional Certifications: </h3>
+<p align="left">
+  
+| Link | Type | Provider | Description |
+| ------ | ------ | ------ | ------ | 
+|1| Skills | Azure | Azure1 |
 
 
 <h3 align="left">Personal Projects: </h3>
