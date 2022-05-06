@@ -12,7 +12,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 
 
 
-<h3 align="left">Projects: </h3>
+<h3 align="left">Personal Projects: </h3>
 <p align="left">
   
 | N° | Project | Technology | Programming Language |
