@@ -2,7 +2,7 @@
 <h4 align="left">A passionate and curious Electronic Engineer from Naples,Italy.</h4>
 
 
-- 🔭 I’m currently working as: **Team Leader SAP SRM - SAP Technical Consultant**
+- 🔭 I’m currently working as: **SAP SRM Team Leader - SAP Technical Consultant**
 
 - 🌱 I’m currently learning:   **Fiori App Development on SAP BTP**
 
