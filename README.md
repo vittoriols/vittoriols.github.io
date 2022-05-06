@@ -15,8 +15,9 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
   
 | Link | Type | Provider | Description |
 | ------ | ------ | ------ | ------ | 
-|<a href="https://s3.amazonaws.com/scruminc-certs/RSM-8042170" target="_blank"> <img src="https://s3.amazonaws.com/ss4t-files/BadgeRSM1633360962364.png" alt="Scrum Master" width="90" height="90"/>| Methodology | Scrum Inc. | Registered Scrum Master |
 | Consulting L1| Methodology | IBM | Consulting L1 - Experienced |
+| Associate Project Manager| Methodology | IBM | Associate Project Manager |
+|<a href="https://s3.amazonaws.com/scruminc-certs/RSM-8042170" target="_blank"> <img src="https://s3.amazonaws.com/ss4t-files/BadgeRSM1633360962364.png" alt="Scrum Master" width="90" height="90"/>| Methodology | Scrum Inc. | Registered Scrum Master |
 |<a href="https://www.credly.com/earner/earned/badge/52962b98-179e-4b49-af71-7341429b599a"> <img src="https://images.credly.com/size/340x340/images/cb7d5b5f-47f5-438f-be3c-d2d3254af584/Recognized-Teacher-Educator.png" alt="Teacher" width="90" height="90"/>| Methodology/Educator | IBM | IBM Recognized Teacher/Educator |
 | Blue Core Mentor | Methodology/Mentor | IBM | Blue Core Mentor |
 |<a href="https://www.credly.com/earner/earned/badge/58097bc9-6ead-447d-9be8-f27b3dc163c5"> <img src="https://images.credly.com/size/340x340/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" alt="EDT" width="90" height="90"/>| Methodology | IBM | Enterprise Design Thinking Co-Creator |
@@ -25,6 +26,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 |<a href="https://www.credly.com/earner/earned/badge/cf08a317-0a60-45a5-9f3d-bbc84b143be4" target="_blank"> <img src="https://images.credly.com/size/340x340/images/844e0d1e-45e7-4818-8640-df588b002d8d/C_FIORDEV_21.png" alt="SAP" width="90" height="90"/>| Skills | SAP | SAP Certified Development Associate - SAP Fiori Application Developer |
 |<a href="https://www.credly.com/earner/earned/badge/ea6e428b-3312-4139-a408-3bc0143297bd" target="_blank"> <img src="https://images.credly.com/size/340x340/images/03b9f921-960b-4ca8-9e48-dacc64cada98/C_TS452_1909.png" alt="SAP" width="90" height="90"/>| Skills | SAP | SAP Certified Application Associate - SAP S/4HANA Sourcing and Procurement |
 |<a href="https://www.credly.com/earner/earned/badge/32614ebd-60a4-457d-b629-0b0142867ead" target="_blank"> <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" width="90" height="90"/>| Skills | Microsoft | Microsoft Certified: Azure Administrator Associate |
+|<a href="https://www.credly.com/earner/earned/badge/19abba21-c015-4665-9d57-b58312b71750" target="_blank"> <img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science" width="90" height="90"/>| Skills | IBM & Coursera | Data Science Professional Certificate |
 
 
 
