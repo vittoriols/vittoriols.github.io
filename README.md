@@ -11,7 +11,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 - 👨‍💻 All of my projects are available here on Github
 
 <h3 align="left">Professional Certifications: </h3>
-<p align="left">
+<p align="center">
   
 | Link | Type | Provider | Description |
 | ------ | ------ | ------ | ------ | 
