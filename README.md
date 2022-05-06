@@ -15,7 +15,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
   
 | Link | Type | Provider | Description |
 | ------ | ------ | ------ | ------ | 
-|1| Skills | Azure | Azure1 |
+|<a href="https://www.credly.com/badges/5d8f3acf-d1c9-4e22-a7e4-61487b0a776c" target="_blank"> <img src="https://images.credly.com/size/340x340/images/034a0102-9b43-4331-8941-a7a6ec62fb1a/C_ACTIVATE05.png" alt="azure" width="40" height="40"/>| Skills | SAP | SAP Certified Associate - SAP Activate Project Manager |
 
 
 <h3 align="left">Personal Projects: </h3>
