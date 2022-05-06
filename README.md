@@ -18,6 +18,10 @@
 |1| [Predict Water Pipe Failures by City](https://github.com/vittoriols/Machine-Learning-Model-to-Predict-Water-Pipe-Failures-by-City.git) | Machine Learning (Regression) | Python |
 |2| .. | Mobile App Development | Flutter / Dart |
 
+<h3 align="left">University Special Project: </h3>
+<p align="left">
+  
+| Description | Programming Language | Link |
  
 
 
