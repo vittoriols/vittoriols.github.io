@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available here on Github
 
-
+Mail: **v.loris.simonetti@gmail.com** 
 
 <h3 align="left">Projects: </h3>
 <p align="left">
