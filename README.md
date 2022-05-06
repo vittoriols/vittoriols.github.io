@@ -1,5 +1,5 @@
 <h1 align="left">Hi Everyone, I'm Vittorio</h1>
-<h3 align="left">About me </h3>
+<h3 align="left">About me: </h3>
 <p align="left">
 I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly involved in software development on SAP ERP and improving on cloud development. The very crucial aspect of my job I like most is problem solving, both technically and functionally speaking. People coordination and knowledge transmission are not less important, because deeply stress the role we all have as educators and shapes somehow all the people we get in touch with. Find more about me in the next sections:
 </p>
