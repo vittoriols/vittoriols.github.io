@@ -22,7 +22,7 @@
 <p align="left">
   
 | Description | Programming Language | Link |
- 
+| ------ | ------ | ------ |
 
 
 <h3 align="left">Connect with me:</h3>
