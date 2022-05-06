@@ -46,10 +46,15 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 | ------ | ------ | ------ |
 |I used the EAGLE software for the Design of Circuits and Electronic Systems, and in the related university course I completed the physical design of a bracelet for blind people that could emit sounds and support movement to avoid obstacles and steps through proximity sensors. | R (Logic) , Eagle (PCB Design) | [Download the project](https://drive.google.com/drive/folders/1uieaA7lIue8x--Q9Pl5-OfSu9vZARuUO?usp=sharing) |
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check my other platforms: </h3>
+<div>
 <p align="left">
-<a href="https://linkedin.com/in/vittorio-loris-simonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittorio loris simonetti" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/vittorio-loris-simonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittorio loris simonetti" height="20" width="20" /></a> Linkedin</p> </div> 
+<a href="https://trailblazer.me/id/vlsimonetti " target="blank"><img align="center" src="https://trailhead.salesforce.com/assets/ranks/adventurer-7ef27eea9542ac4d20cecd3a8ac9e70e3e09e7d90ac062ea7c92971face2f277.png" alt="Salesforce Trailhead" height="30" width="40" /></a>
+
+
+<h3 align="left">Connect with me:</h3>
+
 
 📫 Mail: **v.loris.simonetti@gmail.com** 
 
