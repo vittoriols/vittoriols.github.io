@@ -2,9 +2,9 @@
 <h4 align="left">A passionate and curious Electronic Engineer from Naples,Italy.</h4>
 
 
-- 🔭 I’m currently working as: **SAP S/4 Hana as Application Developer**
+- 🔭 I’m currently working as: **Team Leader SAP SRM - SAP Technical Consultant**
 
-- 🌱 I’m currently learning:   **Fiori app development on SAP BTP**
+- 🌱 I’m currently learning:   **Fiori App Development on SAP BTP**
 
 - 👨‍💻 All of my projects are available here on Github
 
