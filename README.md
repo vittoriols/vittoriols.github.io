@@ -15,11 +15,13 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
   
 | Link | Type | Provider | Description |
 | ------ | ------ | ------ | ------ | 
-|<a href="https://www.credly.com/badges/5d8f3acf-d1c9-4e22-a7e4-61487b0a776c" target="_blank"> <img src="https://images.credly.com/size/340x340/images/034a0102-9b43-4331-8941-a7a6ec62fb1a/C_ACTIVATE05.png" alt="SAP" width="90" height="90"/>| Skills | SAP | SAP Certified Associate - SAP Activate Project Manager |
+|<a href="https://www.credly.com/badges/5d8f3acf-d1c9-4e22-a7e4-61487b0a776c" target="_blank"> <img src="https://images.credly.com/size/340x340/images/034a0102-9b43-4331-8941-a7a6ec62fb1a/C_ACTIVATE05.png" alt="SAP" width="90" height="90"/>| Methodology | SAP | SAP Certified Associate - SAP Activate Project Manager |
 |<a href="https://www.credly.com/earner/earned/badge/0b1dc3a4-024c-4eb6-9025-eb9fe9cc1a90" target="_blank"> <img src="https://images.credly.com/size/340x340/images/c404c861-c9d8-49d5-aa48-1e69fdb83f04/E_HANAAW_16.png" alt="SAP" width="90" height="90"/>| Skills | SAP | SAP Certified Development Specialist - ABAP for SAP HANA 2.0 |
 |<a href="https://www.credly.com/earner/earned/badge/cf08a317-0a60-45a5-9f3d-bbc84b143be4" target="_blank"> <img src="https://images.credly.com/size/340x340/images/844e0d1e-45e7-4818-8640-df588b002d8d/C_FIORDEV_21.png" alt="SAP" width="90" height="90"/>| Skills | SAP | SAP Certified Development Associate - SAP Fiori Application Developer |
 |<a href="https://www.credly.com/earner/earned/badge/ea6e428b-3312-4139-a408-3bc0143297bd" target="_blank"> <img src="https://images.credly.com/size/340x340/images/03b9f921-960b-4ca8-9e48-dacc64cada98/C_TS452_1909.png" alt="SAP" width="90" height="90"/>| Skills | SAP | SAP Certified Application Associate - SAP S/4HANA Sourcing and Procurement |
 |<a href="https://www.credly.com/earner/earned/badge/32614ebd-60a4-457d-b629-0b0142867ead" target="_blank"> <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" width="90" height="90"/>| Skills | Microsoft | Microsoft Certified: Azure Administrator Associate |
+|<a href="https://s3.amazonaws.com/scruminc-certs/RSM-8042170" target="_blank"> <img src="https://s3.amazonaws.com/ss4t-files/BadgeRSM1633360962364.png" alt="Scrum Master" width="90" height="90"/>| Methodology | Scrum Inc. | Registered Scrum Master |
+
 
 
 <h3 align="left">Personal Projects: </h3>
