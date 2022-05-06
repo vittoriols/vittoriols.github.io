@@ -37,7 +37,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 | N° | Project | Technology | Programming Language |
 | ------ | ------ | ------ | ------ | 
 |1| [Predict Water Pipe Failures by City](https://github.com/vittoriols/Machine-Learning-Model-to-Predict-Water-Pipe-Failures-by-City.git) | Machine Learning (Regression) | Python |
-|2| .. | Mobile App Development | Flutter / Dart |
+|2| [Flutter Mobile App](https://github.com/vittoriols/Flutter-Mobile-App/blob/main/README.md) | Mobile App Development | Flutter / Dart |
 |3| [Quiz for SAP Certification](https://github.com/vittoriols/Quiz-SAP-Certification) | Desktop App Development | Python |
 <h3 align="left">University Special Project: </h3>
 <p align="left">
