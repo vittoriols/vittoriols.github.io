@@ -49,8 +49,8 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <h3 align="left">Check my other platforms: </h3>
 <div>
 <p align="left">
-<a href="https://linkedin.com/in/vittorio-loris-simonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittorio loris simonetti" height="20" width="20" /></a> Linkedin</p> </div> 
-<a href="https://trailblazer.me/id/vlsimonetti " target="blank"><img align="center" src="https://trailhead.salesforce.com/assets/ranks/adventurer-7ef27eea9542ac4d20cecd3a8ac9e70e3e09e7d90ac062ea7c92971face2f277.png" alt="Salesforce Trailhead" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vittorio-loris-simonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittorio loris simonetti" height="30" width="40" /></a> 
+<a href="https://trailblazer.me/id/vlsimonetti " target="blank"><img align="center" src="https://trailhead.salesforce.com/assets/ranks/adventurer-7ef27eea9542ac4d20cecd3a8ac9e70e3e09e7d90ac062ea7c92971face2f277.png" alt="Salesforce Trailhead" height="30" width="40" /></a> </p> </div>
 
 
 <h3 align="left">Connect with me:</h3>
