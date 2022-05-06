@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/vittorio-loris-simonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittorio loris simonetti" height="30" width="40" /></a>
 </p>
 <p align="left">
-- 📫 How to reach me **v.loris.simonetti@gmail.com**
+📫 Mail: ***v.loris.simonetti@gmail.com*** 
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vittoriols&label=Profile%20views&color=0e75b6&style=flat" alt="vittoriols" /> </p>
 <h3 align="left">Languages and Tools:</h3>
