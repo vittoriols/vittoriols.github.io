@@ -36,7 +36,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
   
 | N° | Project | Technology | Programming Language |
 | ------ | ------ | ------ | ------ | 
-|1| SAP UI5 Fiori Custom APP | SAP UI5 | Javascript |
+|1| SAP UI5 Fiori Custom APP | SAP UI5 | Javascript / ABAP |
 |2| [Predict Water Pipe Failures by City](https://github.com/vittoriols/Machine-Learning-Model-to-Predict-Water-Pipe-Failures-by-City.git) | Machine Learning (Regression) | Python |
 |3| [Flutter Mobile App](https://github.com/vittoriols/Flutter-Mobile-App/blob/main/README.md) | Mobile App Development | Flutter / Dart |
 |4| [Quiz for SAP Certification](https://github.com/vittoriols/Quiz-SAP-Certification) | Desktop App Development | Python |
