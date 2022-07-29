@@ -14,9 +14,9 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <p align="center">
   
 | Link | Type | Provider | Description |
-| ------ | ------ | ------ | ------ | 
-|<a href="https://www.credly.com/earner/earned/badge/e18f1c6d-5716-4be6-995f-962f7b31ce43" target="_blank"> <img src="https://images.credly.com/size/340x340/images/eb1d0882-1877-4957-81af-361f29e3ee1b/Consulting-Level-1-Experiencedv1.png" alt="Consulting L1 - Experienced" width="90" height="90"/>| Methodology | IBM | Consulting L1 |
-|<a href="https://www.credly.com/earner/earned/badge/cff1e8fd-6c27-4587-a04f-f1795790cc4e" target="_blank"> <img src="https://images.credly.com/size/340x340/images/01a0af6e-aa37-4a4c-8b84-3a980dda4ff5/PM-Associate.png" alt="Associate PM" width="90" height="90"/>| Methodology | IBM | Associate PM |
+| ----------- | ------ | ------ | ------ | 
+|<a href="https://www.credly.com/earner/earned/badge/e18f1c6d-5716-4be6-995f-962f7b31ce43" target="_blank"> <img src="https://images.credly.com/size/340x340/images/eb1d0882-1877-4957-81af-361f29e3ee1b/Consulting-Level-1-Experiencedv1.png" alt="Consulting L1 - Experienced" width="90" height="90"/>| Methodology | IBM | Consulting L1 - Experienced|
+|<a href="https://www.credly.com/earner/earned/badge/cff1e8fd-6c27-4587-a04f-f1795790cc4e" target="_blank"> <img src="https://images.credly.com/size/340x340/images/01a0af6e-aa37-4a4c-8b84-3a980dda4ff5/PM-Associate.png" alt="Associate PM" width="90" height="90"/>| Methodology | IBM | Associate Project Manager |
 |<a href="https://s3.amazonaws.com/scruminc-certs/RSM-8042170" target="_blank"> <img src="https://s3.amazonaws.com/ss4t-files/BadgeRSM1633360962364.png" alt="Scrum Master" width="90" height="90"/>| Methodology | Scrum Inc. | Registered Scrum Master |
 |<a href="https://www.credly.com/earner/earned/badge/52962b98-179e-4b49-af71-7341429b599a" target="_blank"> <img src="https://images.credly.com/size/340x340/images/cb7d5b5f-47f5-438f-be3c-d2d3254af584/Recognized-Teacher-Educator.png" alt="Teacher" width="90" height="90"/>| Methodology/Educator | IBM | IBM Recognized Teacher/Educator |
 |<a href="https://www.credly.com/badges/2daccd0d-8cb8-4f45-9a8f-0c46c8bd6729/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png" width="90" height="90"/>| Methodology/Mentor | IBM | Blue Core Mentor |
