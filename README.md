@@ -13,7 +13,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <h3 align="left">Professional Certifications: </h3>
 <p align="center">
   
-|  Certification Credly Link  | Type | Provider | Description |
+| Link &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Type | Provider | Description |
 | ----------- | ------ | ------ | ------ | 
 |<a href="https://www.credly.com/earner/earned/badge/52962b98-179e-4b49-af71-7341429b599a" target="_blank"> <img src="https://images.credly.com/size/340x340/images/cb7d5b5f-47f5-438f-be3c-d2d3254af584/Recognized-Teacher-Educator.png" alt="Teacher" width=75px height=75px/>| Methodology/Educator | IBM | IBM Recognized Teacher/Educator |
 
@@ -33,7 +33,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <h3 align="left">University Special Project: </h3>
 <p align="left">
   
-| Description             | Programming Language | Link |
+| Description &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Programming Language | Link |
 | ------ | ------ | ------ |
 |I used the EAGLE software for the Design of Circuits and Electronic Systems, and in the related university course I completed the physical design of a bracelet for blind people that could emit sounds and support movement to avoid obstacles and steps through proximity sensors. | R (Logic) , Eagle (PCB Design) | [Download the project](https://drive.google.com/drive/folders/1uieaA7lIue8x--Q9Pl5-OfSu9vZARuUO?usp=sharing) |
 
