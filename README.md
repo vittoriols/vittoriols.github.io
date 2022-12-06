@@ -6,9 +6,9 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 
 -  👨‍💻 I’m currently working as: **SAP Technical Consultant - SRM Team Leader**
 
-- 🌱 I’m currently learning:   **Fiori App Development on SAP BTP** 
+-  🌱 I’m currently learning:   **Fiori App Development on SAP BTP** 
 
-- :computer:  All of my projects are available here on Github
+-  💻  All of my projects are available here on Github
 
 <h3 align="left">Professional Certifications: </h3>
 <p align="center">
