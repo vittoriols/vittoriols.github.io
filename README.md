@@ -45,7 +45,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <p align="left">
   
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Description &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Programming Language | Link |
-| ------ | ------ | ------ |
+| :------ | :------ | :------: |
 |I used the EAGLE software for the Design of Circuits and Electronic Systems, and in the related university course I completed the physical design of a bracelet for blind people that could emit sounds and support movement to avoid obstacles and steps through proximity sensors. | R (Logic) , Eagle (PCB Design) | [Download the project](https://drive.google.com/drive/folders/1uieaA7lIue8x--Q9Pl5-OfSu9vZARuUO?usp=sharing) |
 
 <h3 align="left">Check my other platforms: </h3>
