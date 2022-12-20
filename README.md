@@ -13,8 +13,8 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <h3 align="left">Professional Certifications: </h3>
 <p align="center">
   
-| Link &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Type | Provider | Description |
-| ----------- | ------ | ------ | ------ | 
+| Link        | Type  | Provider | Description |
+|:-----------:| ------ | ------ | ------ | 
 |<a href="https://www.credly.com/badges/e18f1c6d-5716-4be6-995f-962f7b31ce43/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/570b7d44-4867-48ff-b966-d482dc13d7d1/image.png" alt="Consulting L1 - Experienced" width=100px height=100px/>| Methodology | IBM | Consulting L1 - Experienced |
 |<a href="https://www.credly.com/badges/cff1e8fd-6c27-4587-a04f-f1795790cc4e/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/01a0af6e-aa37-4a4c-8b84-3a980dda4ff5/PM-Associate.png" alt="Associate PM"  width=100px height=100px/>| Methodology | IBM | Associate Project Manager |
 |<a href="https://s3.amazonaws.com/scruminc-certs/RSM-8042170" target="_blank"> <img src="https://s3.amazonaws.com/ss4t-files/BadgeRSM1633360962364.png" alt="Scrum Master" width=100px height=100px/>| Methodology | Scrum Inc. | Registered Scrum Master |
@@ -26,7 +26,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 |<a href="https://www.credly.com/badges/cf08a317-0a60-45a5-9f3d-bbc84b143be4/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/844e0d1e-45e7-4818-8640-df588b002d8d/C_FIORDEV_21.png" alt="SAP" width=100px height=100px/>| Skills | SAP | SAP Certified Development Associate - SAP Fiori Application Developer |
 |<a href="https://www.credly.com/badges/ea6e428b-3312-4139-a408-3bc0143297bd/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/03b9f921-960b-4ca8-9e48-dacc64cada98/C_TS452_1909.png" alt="SAP" width=100px height=100px/>| Skills | SAP | SAP Certified Application Associate - SAP S/4HANA Sourcing and Procurement |
 |<a href="https://www.credly.com/badges/32614ebd-60a4-457d-b629-0b0142867ead/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" width=100px height=100px/>| Skills | Microsoft | Microsoft Certified: Azure Administrator Associate |
-|<a href="https://www.credly.com/badges/19abba21-c015-4665-9d57-b58312b71750/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science" width=100px height=100px/>| Skills | IBM & Coursera | Data Science Professional Certificate |
+|<a href="https://www.credly.com/badges/19abba21-c015-4665-9d57-b58312b71750/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science" width=100px height=100px/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Skills | IBM & Coursera | Data Science Professional Certificate |
 
 
 
