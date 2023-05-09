@@ -15,6 +15,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
   
 | Link       | Type  | Provider | Description |
 |:-----------------------------------------------------------------------------------------------|:-------|:----------|:-------------| 
+|<a href="https://www.credly.com/badges/0244ae25-2f06-4ed5-814d-c96d25e84e6e/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/43183161-1f21-440e-8083-483142061452/image.png" alt="SAP Certified Development Associate - SAP BTP Extension Developer" width=150px />| Skills | SAP Certified Development Associate - SAP BTP Extension Developer |
 |<a href="https://www.credly.com/badges/e18f1c6d-5716-4be6-995f-962f7b31ce43/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/570b7d44-4867-48ff-b966-d482dc13d7d1/image.png" alt="Consulting L1 - Experienced" width=150px />| Methodology | IBM | Consulting L1 - Experienced |
 |<a href="https://www.credly.com/badges/cff1e8fd-6c27-4587-a04f-f1795790cc4e/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/01a0af6e-aa37-4a4c-8b84-3a980dda4ff5/PM-Associate.png" alt="Associate PM"  width=150px />| Methodology | IBM | Associate Project Manager |
 |<a href="https://s3.amazonaws.com/scruminc-certs/RSM-8042170" target="_blank"> <img src="https://s3.amazonaws.com/ss4t-files/BadgeRSM1633360962364.png" alt="Scrum Master" width=150px />| Methodology | Scrum Inc. | Registered Scrum Master |
