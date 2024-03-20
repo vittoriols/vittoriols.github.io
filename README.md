@@ -4,9 +4,9 @@
 I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly involved in software development on SAP ERP and improving on cloud development. The very crucial aspect of my job I like most is problem solving, both technically and functionally speaking. People coordination and knowledge transmission are not less important, because deeply stress the role we all have as educators and shapes somehow all the people we get in touch with. Find more about me in the next sections:
 </p>
 
-👨‍💻 I’m currently working as: **SAP Technical Consultant - SRM Team Leader**
+👨‍💻 I’m currently working as: **Application Architect - SAP SRM/EHS Team Leader**
 
-🌱 I’m currently learning:   **Fiori App Development on SAP BTP** 
+🌱 I’m currently learning:   **SAP Fiori App Development** 
 
 💻  All of my projects are available here on Github
 
@@ -15,12 +15,14 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
   
 | Link       | Type  | Provider | Description |
 |:-----------------------------------------------------------------------------------------------|:-------|:----------|:-------------| 
-|<a href="https://www.credly.com/badges/0244ae25-2f06-4ed5-814d-c96d25e84e6e/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/43183161-1f21-440e-8083-483142061452/image.png" alt="SAP Certified Development Associate - SAP BTP Extension Developer" width=150px />| Skills | SAP | SAP Certified Development Associate - SAP BTP Extension Developer |
+|<a href="https://www.credly.com/badges/6868d128-32f3-4f94-91d0-f946472fdd8d/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/5f0b34f7-d488-4e8c-8a1d-e87e3adfcefe/badge-openca-certified.png" alt="Professional Certification: Level 1 - Certified Solution Architect" width=150px />| Methodology | Open Group | Professional Certification: Level 1 - Certified Solution Architect |
+|<a href="https://www.credly.com/badges/c45b2c22-b8c4-4067-a02e-9027a9ec4c93/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" alt="Architect Profession Certification - Level 1 Experienced" width=150px />| Methodology | IBM | Architect Profession Certification - Level 1 Experienced |
+|<a href="https://www.credly.com/badges/0244ae25-2f06-4ed5-814d-c96d25e84e6e/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/6a26918e-9cf4-4a6a-ae5b-ecdf843893ec/image.png" alt="SAP Certified Development Associate - SAP BTP Extension Developer" width=150px />| Skills | SAP | SAP Certified Development Associate - SAP BTP Extension Developer |
 |<a href="https://www.credly.com/badges/e18f1c6d-5716-4be6-995f-962f7b31ce43/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/570b7d44-4867-48ff-b966-d482dc13d7d1/image.png" alt="Consulting L1 - Experienced" width=150px />| Methodology | IBM | Consulting L1 - Experienced |
 |<a href="https://www.credly.com/badges/cff1e8fd-6c27-4587-a04f-f1795790cc4e/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/01a0af6e-aa37-4a4c-8b84-3a980dda4ff5/PM-Associate.png" alt="Associate PM"  width=150px />| Methodology | IBM | Associate Project Manager |
 |<a href="https://s3.amazonaws.com/scruminc-certs/RSM-8042170" target="_blank"> <img src="https://s3.amazonaws.com/ss4t-files/BadgeRSM1633360962364.png" alt="Scrum Master" width=150px />| Methodology | Scrum Inc. | Registered Scrum Master |
 |<a href="https://www.credly.com/badges/52962b98-179e-4b49-af71-7341429b599a/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/cb7d5b5f-47f5-438f-be3c-d2d3254af584/Recognized-Teacher-Educator.png" alt="Teacher" width=150px />| Methodology/Educator | IBM | IBM Recognized Teacher/Educator |
-|<a href="https://www.credly.com/badges/2daccd0d-8cb8-4f45-9a8f-0c46c8bd6729/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png" width=150px />| Methodology/Mentor | IBM | Blue Core Mentor |
+|<a href="https://www.credly.com/badges/2daccd0d-8cb8-4f45-9a8f-0c46c8bd6729/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/26fe3423-8ead-4ab5-a19e-7d16f242a3ac/IBM-Mentor-template.png" width=150px />| Methodology/Mentor | IBM | Blue Core Mentor |
 |<a href="https://www.credly.com/badges/58097bc9-6ead-447d-9be8-f27b3dc163c5/public_url"> <img src="https://images.credly.com/size/340x340/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" alt="EDT" width=150px />| Methodology | IBM | Enterprise Design Thinking Co-Creator |
 |<a href="https://www.credly.com/badges/5d8f3acf-d1c9-4e22-a7e4-61487b0a776c" target="_blank"> <img src="https://images.credly.com/size/340x340/images/034a0102-9b43-4331-8941-a7a6ec62fb1a/C_ACTIVATE05.png" alt="SAP" width=150px />| Methodology | SAP | SAP Certified Associate - SAP Activate Project Manager |
 |<a href="https://www.credly.com/badges/0b1dc3a4-024c-4eb6-9025-eb9fe9cc1a90/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/c404c861-c9d8-49d5-aa48-1e69fdb83f04/E_HANAAW_16.png" alt="SAP" width=150px />| Skills | SAP | SAP Certified Development Specialist - ABAP for SAP HANA 2.0 |
