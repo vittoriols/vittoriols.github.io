@@ -14,7 +14,8 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <p align="center">
   
 | Link       | Type  | Provider | Description |
-|:-----------------------------------------------------------------------------------------------|:-------|:----------|:-------------| 
+|:-----------------------------------------------------------------------------------------------|:-------|:----------|:-------------|
+|<a href="https://www.credly.com/badges/0881d9a4-a94a-48f5-9e89-1b14ae67a6e1/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/65fe9e2c-6cac-4584-a5c3-a65e01516e7d/image.png" alt="SAP Certified Associate - Back-End Developer - ABAP Cloud" width=150px />| Skills | SAP | SAP Certified Associate - Back-End Developer - ABAP Cloud |
 |<a href="https://www.credly.com/badges/6868d128-32f3-4f94-91d0-f946472fdd8d/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/5f0b34f7-d488-4e8c-8a1d-e87e3adfcefe/badge-openca-certified.png" alt="Professional Certification: Level 1 - Certified Solution Architect" width=150px />| Methodology | Open Group | Professional Certification: Level 1 - Certified Solution Architect |
 |<a href="https://www.credly.com/badges/c45b2c22-b8c4-4067-a02e-9027a9ec4c93/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" alt="Architect Profession Certification - Level 1 Experienced" width=150px />| Methodology | IBM | Architect Profession Certification - Level 1 Experienced |
 |<a href="https://www.credly.com/badges/0244ae25-2f06-4ed5-814d-c96d25e84e6e/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/6a26918e-9cf4-4a6a-ae5b-ecdf843893ec/image.png" alt="SAP Certified Development Associate - SAP BTP Extension Developer" width=150px />| Skills | SAP | SAP Certified Development Associate - SAP BTP Extension Developer |
