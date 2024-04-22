@@ -57,7 +57,8 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 <div>
 <p align="left">
 <a href="https://linkedin.com/in/vittorio-loris-simonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittorio loris simonetti" height="30" width="40" /></a> 
-<a href="https://trailblazer.me/id/vlsimonetti " target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" alt="Salesforce Trailhead" height="30"  /></a> </p> </div>
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
