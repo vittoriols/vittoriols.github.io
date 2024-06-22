@@ -4,9 +4,9 @@
 I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly involved in software development on SAP ERP and improving on web development and AI. The very crucial aspect of my job I like most is problem solving, both technically and functionally speaking. People coordination and knowledge transmission are not less important, because deeply stress the role we all have as educators and shapes somehow all the people we get in touch with. Find more about me in the next sections:
 </p>
 
-👨‍💻 I’m currently working as: **Application Architect - SAP SRM/EHS Team Leader**
+👨‍💻 I’m currently working as: **Certified Application Architect - Team Leader @IBM**
 
-🌱 I’m currently learning:   **SAP Fiori App Development** 
+🌱 I’m currently learning:   **Gen AI** 
 
 💻  All of my projects are available here on Github
 
@@ -31,7 +31,7 @@ I’m a passionate and curious Electronic Engineer from Naples,Italy. I'm highly
 |<a href="https://www.credly.com/badges/cf08a317-0a60-45a5-9f3d-bbc84b143be4/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/844e0d1e-45e7-4818-8640-df588b002d8d/C_FIORDEV_21.png" alt="SAP" width=150px />| Skills | SAP | SAP Certified Development Associate - SAP Fiori Application Developer |
 |<a href="https://www.credly.com/badges/ea6e428b-3312-4139-a408-3bc0143297bd/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/03b9f921-960b-4ca8-9e48-dacc64cada98/C_TS452_1909.png" alt="SAP" width=150px />| Skills | SAP | SAP Certified Application Associate - SAP S/4HANA Sourcing and Procurement |
 |<a href="https://www.credly.com/badges/32614ebd-60a4-457d-b629-0b0142867ead/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" width=150px />| Skills | Microsoft | Microsoft Certified: Azure Administrator Associate |
-|<a href="https://www.credly.com/badges/19abba21-c015-4665-9d57-b58312b71750/public_url" target="_blank"> <img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science" width=150px /> | Skills | IBM & Coursera | Data Science Professional Certificate |
+|<a href="https://www.credly.com/badges/19abba21-c015-4665-9d57-b58312b71750/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" alt="Data Science" width=150px /> | Skills | IBM & Coursera | Data Science Professional Certificate |
 
 
 
